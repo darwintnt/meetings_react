@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/meetings_react/static/css/main.58eddb06.chunk.css",
+    "main.js": "/meetings_react/static/js/main.796dda39.chunk.js",
+    "main.js.map": "/meetings_react/static/js/main.796dda39.chunk.js.map",
+    "runtime~main.js": "/meetings_react/static/js/runtime~main.b7d6a823.js",
+    "runtime~main.js.map": "/meetings_react/static/js/runtime~main.b7d6a823.js.map",
+    "static/css/2.c2795de4.chunk.css": "/meetings_react/static/css/2.c2795de4.chunk.css",
+    "static/js/2.ef95c800.chunk.js": "/meetings_react/static/js/2.ef95c800.chunk.js",
+    "static/js/2.ef95c800.chunk.js.map": "/meetings_react/static/js/2.ef95c800.chunk.js.map",
+    "index.html": "/meetings_react/index.html",
+    "precache-manifest.d49124afff54c5f9df130729dcce33de.js": "/meetings_react/precache-manifest.d49124afff54c5f9df130729dcce33de.js",
+    "service-worker.js": "/meetings_react/service-worker.js",
+    "static/css/2.c2795de4.chunk.css.map": "/meetings_react/static/css/2.c2795de4.chunk.css.map",
+    "static/css/main.58eddb06.chunk.css.map": "/meetings_react/static/css/main.58eddb06.chunk.css.map"
+  }
+}
